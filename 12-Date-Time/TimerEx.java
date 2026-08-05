@@ -11,7 +11,7 @@ public class TimerEx {
                 count--;
 
                 if(count <=0 ){
-                    System.out.println("Task Completed!");
+                    System.out.println("Task Complete!");
                     timer.cancel();
                 }
             }
