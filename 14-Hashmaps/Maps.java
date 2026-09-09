@@ -5,7 +5,12 @@ public class Maps {
         HashMap<String , Double> map = new HashMap<>();
 
         map.put("Apple", 12.1);
-        System.out.println(map);
+        map.put("Orange", 10.11);
+
+        // System.out.println(map);
+        // System.out.println(map.get("Apple"));
+        // System.out.println(map.containsKey("Pineapple"));
+        System.out.println(map.size());
     }
     
 }

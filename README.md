@@ -15,7 +15,7 @@ This repository contains the Java programs and mini-projects I write while learn
 - ✅ Methods
 - ✅ Arrays
 - ✅ Patterns
-- 🔄 Recursion (Currently Learning)
+- ✅ Recursion
 - ✅ Mini Projects
 
 ## Goal
